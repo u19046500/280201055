@@ -1,2 +1,2 @@
 language = "python3"
-run = "python lab8/nums_of_evens.py"
+run = "python lab13/binary.py"
